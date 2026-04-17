@@ -181,8 +181,8 @@ border-radius: 50px;
 }
 
 .card{
-    height: 150px;
-    width: 250px;
+    height:200px;
+    width: 400px;
     background-color: rgb(243, 236, 231);
     border-radius: 10px;
     padding: 30px;
@@ -197,7 +197,9 @@ border-radius: 50px;
 
 }
 p{
-    font-size: 10px;
+     font-size: 30px;
+    font-style: ex;
+    font-weight: 500;
 }
 
 .bottom{
@@ -205,11 +207,14 @@ p{
     align-items: center;
     justify-content: space-between;
     margin-top: 5px;
+    padding-top: 20px;
 }
 
 .bottom h1{
     font-family: "Net";
     font-size: 30px;
+    font-style: bold;
+    font-weight: 500;
 }
 
 
@@ -239,14 +244,16 @@ p{
 }
 
 .card h2{
-    font-family: "apple";
-    font-size: 10px;
+    font-family: "monospace";
+    font-size: 15px;
+    font-style: bold;
     color: rgb(2, 0, 68);
-    margin-top: 3px;
+    margin-top: 15px;
     text-align: center;
-    font-weight: 500;
-margin-bottom: 15px;
-padding-bottom: 10px;
+    margin-top: 10px;
+    font-weight: 700;
+margin-bottom: 5px;
+padding-bottom: 5px;
     font-style: bold;
 }
 
